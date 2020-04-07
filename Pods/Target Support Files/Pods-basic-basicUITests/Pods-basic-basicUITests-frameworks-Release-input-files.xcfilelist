@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-basic-basicUITests/Pods-basic-basicUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Hippolyte/Hippolyte.framework
+${BUILT_PRODUCTS_DIR}/Swifter/Swifter.framework

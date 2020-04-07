@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Hippolyte (1.1.0)
+  - Swifter (1.4.7)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - Hippolyte
+  - Swifter (~> 1.4.7)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Hippolyte
+    - Swifter
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Hippolyte: a295da386260477d164529b7b18a07adc6175240
+  Swifter: 2327ef5d872c638aebab79646ce494af508b0c8f
+
+PODFILE CHECKSUM: 03ed307ca94dd4f950e258df3cef07c6c66be1ac
+
+COCOAPODS: 1.8.4

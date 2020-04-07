@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-basicTests/Pods-basicTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Hippolyte/Hippolyte.framework
+${BUILT_PRODUCTS_DIR}/Swifter/Swifter.framework
